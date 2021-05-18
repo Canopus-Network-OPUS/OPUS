@@ -33,11 +33,3 @@ We will allow the creation and ownership of swap pools based on stable and flexi
 # Conclusion
 Ultimately, secure, fast and transparent fundraising that empowers the right teams will help move the space forward. Canopus is an investor-focused platform that supports rather than confuses members by offering an environment in which everyone wins. Our culture is built on rewarding innovation and talented teams that deliver real value through rewarding apps and forward-thinking development.
 
-# Token Specification
-Name: Canopus
-Symbol: OPUS
-Network: Avalanche C-Chain
-Spec: ARC20
-Precision: 18
-Total Supply: 1 Billion
-Smart Contract Address: 0x76076880e1EBBcE597e6E15c47386cd34de4930F
